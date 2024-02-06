@@ -1,0 +1,7 @@
+.course{
+    width: 200px;    
+    transition: all 0.5s;
+}
+.course:hover{
+    transform: translateX((-20px));
+}
